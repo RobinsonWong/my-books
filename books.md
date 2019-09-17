@@ -1,4 +1,4 @@
-# My Purchased Books
+# Purchased Books
 
 ## Books Purchased in 2019
 
@@ -35,6 +35,7 @@
 | 关键对话：如何高效能沟通 | ? | ? | ? | [京东][0] | 20190201 | [豆瓣链接]() |
 | 人类简史：从动物到上帝 | ? | ? | ? | [京东][0] | 20190120 | [豆瓣链接]() |
 | 怎样读书 | 胡适 | ? | ? | [京东][0] | 20190120 | [豆瓣链接]() |
+
 
 
 ## Books Purchased in 2018
@@ -226,6 +227,7 @@
 | 毛泽东选集 第1卷（第2版） | 毛泽东 | 人民出版社 | ? | [亚马逊][1] | 20170226 | [豆瓣链接]() |
 
 
+
 ## Books Purchased in 2016
 
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
@@ -238,6 +240,7 @@
 | 2016年注册会计师应试指导及全真模拟测试：公司战略与风险管理 | ? | ? | ? | [亚马逊][1] | 20160616 | [豆瓣链接]() |
 
 
+
 ## Books Purchased in 2015
 
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
@@ -246,11 +249,10 @@
 
 
 
-## Kindle 电子书 (Robin)
+## Kindle 电子书 - A
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 | 奥斯曼土耳其六百年：土耳其帝国的兴衰 | ? | ? | ? | [亚马逊][1] | 20190618 | [豆瓣链接]() |
-
 | A Game of Thrones 5-Book Boxed Set | George R.R. Martin | ? | ? | [亚马逊][1] | 20181223 | [豆瓣链接]() |
 | 中华经典普及文库：资治通鉴（第一分册） |  | 中华书局 | ? | [亚马逊][1] | 20181130 | [豆瓣链接]() |
 | 中华经典普及文库：三国志 | 陈寿，裴松之 | 中华书局 | ? | [亚马逊][1] | 20181130 | [豆瓣链接]() |
@@ -279,7 +281,8 @@
 | 胡适留学日志 | 胡适 | ? | ? | [亚马逊][1] | 20150309 | [豆瓣链接]() |
 
 
-## Kindle 电子书 (taolinr)
+
+## Kindle 电子书 - B
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 | 富爸爸财务自由之路 | ? | ? | [亚马逊][1] | 20180715 | [豆瓣链接]() |
@@ -351,6 +354,9 @@
 | 过日子要有技术含量·果壳阅读 | ? | ? | ? | [亚马逊][1] | 20160106 | [豆瓣链接]() |
 | 哈佛经典(套装共50卷)(英文原版) | ? | ? | ? | [亚马逊][1] | 20160106 | [豆瓣链接]() |
 
+
+
+
 ## TODO amazon 2015 - 2007 年订单
 
 
@@ -368,5 +374,6 @@
 [1]: https://amazon.cn "亚马逊中国"
 [2]: https://dangdang.com "当当网"
 [3]: https://taobao.com "淘宝网"
+[4]: https://www.kongfz.com "孔夫子旧书网"
 
 
