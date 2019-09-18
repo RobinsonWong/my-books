@@ -513,7 +513,7 @@
 
 
 
-[0]: https://jd.com 　 "京东"
+[0]: https://jd.com "京东"
 [1]: https://amazon.cn "亚马逊中国"
 [2]: https://dangdang.com "当当网"
 [3]: https://taobao.com "淘宝网"
