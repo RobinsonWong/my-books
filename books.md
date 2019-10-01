@@ -442,6 +442,7 @@
 ## Kindle 电子书 - A
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+| 华文世界史（套装22册） | ? | ? | ? | [亚马逊][1] | 20191001 | [豆瓣]() |
 | 奥斯曼土耳其六百年：土耳其帝国的兴衰 | ? | ? | ? | [亚马逊][1] | 20190618 | [豆瓣]() |
 | A Game of Thrones 5-Book Boxed Set | George R.R. Martin | ? | ? | [亚马逊][1] | 20181223 | [豆瓣]() |
 | 中华经典普及文库：资治通鉴（第一分册） |  | 中华书局 | ? | [亚马逊][1] | 20181130 | [豆瓣]() |
