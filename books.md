@@ -5,6 +5,21 @@
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 |  |  |  |   | [京东][0] | 20200919 | [豆瓣]() |
+| The Complete Short Stories Of Mark Twain | Charles Neider | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| Four Comedies | Shakespeare | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| The Divine Comedy of Dante Alighieri Inferno  | Allen Mandelbaum | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| A Midsummer Night's Draeam | Shakespeare | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| The Dialogues of Plato | Erich Segal | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| The Origin of Species | Charles Darwin | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| 50 Great Short Stories | Milton Crane | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| Little Women | Lousia May Alcott | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| Faust - First Part | Johann Wolfgang von Goethe | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| A Tale of Two Cities | Charles Dickens  | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| Walden and Other Writings | Henry David Thoreau | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| The Complete Plays of Aritophanes |  | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| Common Sense | Thomas Paine | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| The Time Machine | H.G. Wells | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
+| 精通Spring 4.x |  |  |   | [京东][0] | 20201115 | [豆瓣]() |
 | More Effective C++ |  |  |   | [京东][0] | 20200919 | [豆瓣]() |
 | 深度探索C++对象模型 |  |  |   | [京东][0] | 20200919 | [豆瓣]() |
 | 计算机网络 |  |  |   | [京东][0] | 20200919 | [豆瓣]() |
