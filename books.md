@@ -4,7 +4,10 @@
 
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
-|  |  |  |   | [京东][0] | 20200919 | [豆瓣]() |
+|  |  |  |   | [京东][0] | 20210327 | [豆瓣]() |
+| 王羲之兰亭序三种 |  |  |   | [京东][0] | 20210327 | [豆瓣]() |
+| 机器学习的数学 |  |  |   | [京东][0] | 20210327 | [豆瓣]() |
+| 领域驱动设计 |  |  |   | [京东][0] | 20210327 | [豆瓣]() |
 | The Complete Short Stories Of Mark Twain | Charles Neider | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
 | Four Comedies | Shakespeare | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
 | The Divine Comedy of Dante Alighieri Inferno  | Allen Mandelbaum | Bantam Classic |   | [京东][0] | 20201115 | [豆瓣]() |
