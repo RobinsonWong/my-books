@@ -2,11 +2,19 @@
 
 # 1.实体纸书
 
+## Books Purchased in 2022
+
+| Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
+| :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+|  |  |  |   | [京东][0] | 20220107 | [豆瓣]() |
+|  |  |  |   | [京东][0] | 20220107 | [豆瓣]() |
+| Word Power Made Easy | Norman Lewis | Achor Books |   | [京东][0] | 20220107 | [豆瓣]() |
+| Merriam-Webster's Vocabulary Builder | Mary Wood Cornog |  |   | [京东][0] | 20220107 | [豆瓣]() |
+
 ## Books Purchased in 2021
 
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
-|  |  |  |   | [京东][0] | 20211105 | [豆瓣]() |
 | 追忆似水年华（全新修订）（套装共7卷） | [法]马塞尔·普鲁斯特 著，李恒基 等 译 | 译林出版社 |   | [京东][0] | 20211105 | [豆瓣]() |
 | 名著名译精装： 悲惨世界 | [法]雨果 著，李丹，方于 译  | 人民文学出版社 |   | [京东][0] | 20211105 | [豆瓣]() |
 | 名著名译精装：战争与和平 | [俄]列夫·托尔斯泰 著，刘辽逸 译  | 人民文学出版社 |   | [京东][0] | 20211105 | [豆瓣]() |
