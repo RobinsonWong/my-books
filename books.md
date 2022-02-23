@@ -7,7 +7,9 @@
 | Book Name | Author | Press | Publication Year | Purchased From | Purchased Time | Douban Links |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 |  |  |  |   | [京东][0] | 20220107 | [豆瓣]() |
-|  |  |  |   | [京东][0] | 20220107 | [豆瓣]() |
+| 四季时光画卷版 |  | 上海人民美术出版社 |   | [京东][0] | 20220217 | [豆瓣]() |
+| 发展心理学-人毕生的发展(第6版) |  | 世界图书出版社 |   | [京东][0] | 20220217 | [豆瓣]() |
+| Go语言设计与实现 | 左书祺(@Draven) | 人民邮电 |   | [京东][0] | 20220217 | [豆瓣]() |
 | Word Power Made Easy | Norman Lewis | Achor Books |   | [京东][0] | 20220107 | [豆瓣]() |
 | Merriam-Webster's Vocabulary Builder | Mary Wood Cornog |  |   | [京东][0] | 20220107 | [豆瓣]() |
 
